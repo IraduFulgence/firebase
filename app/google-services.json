@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447212458706",
+    "firebase_url": "https://androquiz-7a12d.firebaseio.com",
+    "project_id": "androquiz-7a12d",
+    "storage_bucket": "androquiz-7a12d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447212458706:android:3385ed51251a8e03",
+        "android_client_info": {
+          "package_name": "com.fulgence.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447212458706-fuhc4rsdf5ll24hsq5qmlm5uie4t83vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fulgence.myapplication",
+            "certificate_hash": "5198821aa3ab11b26de5e977df3b077bcdc62aa6"
+          }
+        },
+        {
+          "client_id": "447212458706-1rs3a0qnka7luufdo82q2sh1jo7cu530.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0t8Q595F5E1G6aLTw2y60eNjvvg62ee4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447212458706-1rs3a0qnka7luufdo82q2sh1jo7cu530.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
